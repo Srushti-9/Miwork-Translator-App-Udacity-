@@ -48,6 +48,8 @@ the License.
 
 
 The screenshots of the application are attached below:
+
+
 <img src="https://user-images.githubusercontent.com/32461344/55489172-094da780-564f-11e9-99e3-25e405e07cf9.png" width="50%" height="30%">
 
 
